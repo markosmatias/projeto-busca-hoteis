@@ -1,0 +1,12 @@
+br\com\projetobuscahoteis\config\RestConfig.class
+br\com\projetobuscahoteis\model\Hotel.class
+br\com\projetobuscahoteis\dao\JpaDAO.class
+br\com\projetobuscahoteis\model\Bairro.class
+br\com\projetobuscahoteis\dao\DAO.class
+br\com\projetobuscahoteis\rest\HotelResource.class
+br\com\projetobuscahoteis\dto\HotelDTO.class
+br\com\projetobuscahoteis\config\Producers.class
+br\com\projetobuscahoteis\model\Estado.class
+br\com\projetobuscahoteis\model\Quarto.class
+br\com\projetobuscahoteis\model\Cidade.class
+br\com\projetobuscahoteis\dto\PostDTO.class
